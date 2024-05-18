@@ -14,7 +14,7 @@ public class Decisiones {
             System.out.println("Peliculas Retro que aun vale la pena ver");
         }
 
-        //codigo que prueba el uso de los operadores logicos || &&
+        //codigo que prueba el uso de los operadores logicos || && para las reglas de negocio
         if(incluidoEnElPlan && tipoPlan.equals("plus")){   //tipoPlan == "plus" estrictamente igual
             System.out.println("Disfrute de su pelicula");
         }else{
